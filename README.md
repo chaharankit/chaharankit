@@ -2,7 +2,10 @@
                                      ____________________________________________________________
 
 
-**chaharankit/chaharankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently a Third year undergraduate pursuing  B.Tech Computer Science & Engineering from Lovely Professional University.
+- ⚡ I'm interested in Software Development and Cyber Security.
+- 🥅 2021 Goals: To be part of open source contributions.
+<br />
 
 ### Lets be friends, connect with me at:
 
@@ -16,6 +19,22 @@
 <br/>
 <br/>
 
+# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://chaharankit.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaharankit.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/chaharankit/chaharankit?style=social)  [![Check out my Resume](https://img.shields.io/badge/Check%20out%20my%20Resume-cyan)]()
+
+
+
+## Competitive Coding Profiles
+
+ # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ankit_cse)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/febankiit14/profile) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/lucii)
+ 
+ <br />
+
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=chaharankit&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true)
+
+<br>
+<a href="https://github.com/chaharankit/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaharankit&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=35&hide_border=false" />
+</a>
 
 [website]:https://chaharankit.github.io/
 [linkedin]:https://www.linkedin.com/in/chahar-ankiit/
