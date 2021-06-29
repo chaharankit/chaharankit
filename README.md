@@ -1,5 +1,5 @@
-                                            ### Hi there 👋 Welcome to my Github profile
-                                     ____________________________________________________________
+#                                              Hi there 👋 Welcome to my Github profile
+____________________________________________________________
 
 
 - 💻 I’m currently a Third year undergraduate pursuing  B.Tech Computer Science & Engineering from Lovely Professional University.
