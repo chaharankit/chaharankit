@@ -2,9 +2,9 @@
 ____________________________________________________________
 
 
-- 💻 I’m currently a Third year undergraduate pursuing  B.Tech Computer Science & Engineering from Lovely Professional University.
-- ⚡ I'm interested in Software Development and Cyber Security.
-- 🥅 2021 Goals: To be part of open source contributions.
+- 💻 I’m currently working as SDE for Siemens Energy.
+- ⚡ I'm interested in Software Development.
+- 🥅 2024 Goals: To be part of open source contributions.
 <br />
 
 ### Lets be friends, connect with me at:
