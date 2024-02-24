@@ -33,7 +33,7 @@ ____________________________________________________________
 
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=chaharankit">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaharankit&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=35&hide_border=false" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaharankit" />
 </a>
 
 [website]:https://chaharankit.github.io/
