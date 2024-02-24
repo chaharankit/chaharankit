@@ -32,7 +32,7 @@ ____________________________________________________________
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=chaharankit&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true)
 
 <br>
-<a href="https://github.com/chaharankit/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=chaharankit">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaharankit&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=35&hide_border=false" />
 </a>
 
