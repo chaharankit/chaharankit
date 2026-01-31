@@ -1,45 +1,95 @@
-#                                              Hi there 👋 Welcome to my Github profile
-____________________________________________________________
+# Ankit Chahar
 
+> Software Engineer | Systems Programming Enthusiast | Open Source Contributor
 
-- 💻 I’m currently working as SDE for Siemens Energy.
-- ⚡ I'm interested in Software Development.
-- 🥅 2024 Goals: To be part of open source contributions.
-<br />
+---
 
-### Lets be friends, connect with me at:
+## About Me
 
-[<img align="left"  width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-<br/>
-<br/>
+Senior SDE with 4+ years of experience building robust, scalable systems. Passionate about low-level software design, concurrent systems, and writing code that doesn't break at 3 AM. Currently at Siemens Energy, solving problems that matter.
 
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://chaharankit.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaharankit.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/chaharankit/chaharankit?style=social)  [![Check out my Resume](https://img.shields.io/badge/Check%20out%20my%20Resume-cyan)]()
+---
 
+## Tech Stack
 
+### Core Expertise
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
+![System Programming](https://img.shields.io/badge/System%20Programming-000000?style=flat&logoColor=white)
 
-## Competitive Coding Profiles
+### Systems & Concurrency
+![Multithreading](https://img.shields.io/badge/Multithreading-FF6B6B?style=flat&logoColor=white)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-0078D4?style=flat&logoColor=white)
+![Memory Management](https://img.shields.io/badge/Memory%20Management-FF6B6B?style=flat&logoColor=white)
 
- # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ankit_cse)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/febankiit14/profile) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/lucii)
- 
- <br />
+### Web & Cloud
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=chaharankit&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true)
+### Development Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br>
-<a href="https://github-readme-stats.vercel.app/api?username=chaharankit">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaharankit" />
-</a>
+---
 
-[website]:https://chaharankit.github.io/
-[linkedin]:https://www.linkedin.com/in/chahar-ankiit/
-[mail]:mailto:feb.ankiit14@gmail.com
-[github]:https://github.com/chaharankit
-[instagram]:https://www.instagram.com/ankiitchahar/
-[twitter]:https://twitter.com/feb_ankiit
-[stackoverflow]:https://stackoverflow.com/users/16308400/ankit-cse
+## Featured Projects
+
+Coming soon. Currently polishing some insights on concurrent systems that'll be here shortly.
+
+---
+
+## Open Source & Community
+
+Always interested in meaningful open source work. Currently exploring opportunities in systems programming and performance optimization.
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaharankit&theme=highcontrast)](https://github.com/chaharankit)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=chaharankit&theme=highcontrast&column=4&margin-w=15)
+
+</div>
+
+---
+
+## 2026 Goals
+
+- Contribute to impactful open source projects
+- Deep dive into distributed systems
+- Share knowledge through technical writing
+- Master lock-free programming patterns
+
+---
+
+## Let's Connect
+
+<div align="left">
+
+[<img width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" />][website]
+[<img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" />][linkedin]
+[<img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="Gmail" />][mail]
+[<img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" alt="GitHub" />][github]
+[<img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" />][twitter]
+[<img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Stack Overflow" />][stackoverflow]
+
+</div>
+
+---
+
+<div align="center">
+
+**Building systems. Breaking things. Learning fast.**
+
+</div>
+
+[website]: https://chaharankit.github.io/
+[linkedin]: https://www.linkedin.com/in/chahar-ankiit/
+[mail]: mailto:feb.ankiit14@gmail.com
+[github]: https://github.com/chaharankit
+[twitter]: https://twitter.com/feb_ankiit
+[stackoverflow]: https://stackoverflow.com/users/16308400/ankit-cse
