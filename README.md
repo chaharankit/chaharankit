@@ -6,7 +6,7 @@
 
 ## About Me
 
-Senior SDE with 4+ years of experience building robust, scalable systems. Passionate about low-level software design, concurrent systems, and writing code that doesn't break at 3 AM. Currently at Siemens Energy, solving problems that matter.
+SDE with 4+ years of experience building robust, scalable systems. Passionate about low-level software design, concurrent systems, and writing code that doesn't break at 3 AM. Currently at Teledyne FLIR, solving problems that matter.
 
 ---
 
